@@ -1,6 +1,6 @@
 # npmdoc-tcomb-form-native
 
-#### api documentation for  [tcomb-form-native (v0.6.7)](https://github.com/gcanti/tcomb-form-native)  [![npm package](https://img.shields.io/npm/v/npmdoc-tcomb-form-native.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tcomb-form-native) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tcomb-form-native.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tcomb-form-native)
+#### basic api documentation for  [tcomb-form-native (v0.6.7)](https://github.com/gcanti/tcomb-form-native)  [![npm package](https://img.shields.io/npm/v/npmdoc-tcomb-form-native.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tcomb-form-native) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tcomb-form-native.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tcomb-form-native)
 
 #### react-native powered UI library for developing forms writing less code
 
@@ -79,7 +79,8 @@
         "react-native",
         "react-component"
     ],
-    "version": "0.6.7"
+    "version": "0.6.7",
+    "bin": {}
 }
 ```
 
